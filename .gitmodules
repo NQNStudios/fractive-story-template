@@ -1,0 +1,3 @@
+[submodule "fractive"]
+	path = fractive
+	url = git@github.com:Natman64/fractive.git

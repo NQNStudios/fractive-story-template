@@ -17,3 +17,11 @@ Install local dependencies from your project root directory:
 ```
 npm install
 ```
+
+Initialize the Fractive submodule and install its local dependencies:
+
+```
+git submodule update --init
+cd fractive
+npm install
+```
