@@ -1,0 +1,28 @@
+{
+  "name": "fractive-story-template",
+  "version": "1.0.0",
+  "description": "Fractive project template which uses Webpack to build and serve games.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natman64/fractive-story-template.git"
+  },
+  "keywords": [
+    "game",
+    "development",
+    "gamedev",
+    "interactive",
+    "fiction",
+    "if",
+    "hypertext"
+  ],
+  "author": "Nat Quayle Nelson",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Natman64/fractive-story-template/issues"
+  },
+  "homepage": "https://github.com/Natman64/fractive-story-template#readme"
+}
